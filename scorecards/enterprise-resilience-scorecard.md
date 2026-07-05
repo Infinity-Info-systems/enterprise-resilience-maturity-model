@@ -1,8 +1,10 @@
 # Enterprise Resilience Scorecard
 
+## Purpose
+
 This scorecard gives leaders a simple view of resilience maturity across the operating stack.
 
-## Purpose
+## Use
 
 Use this scorecard to combine governance, reliability, DR, observability, and FinOps into one executive-ready resilience view.
 

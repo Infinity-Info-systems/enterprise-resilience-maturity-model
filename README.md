@@ -2,9 +2,9 @@
 
 ## Overview
 
-This repository presents an Enterprise Resilience Maturity Model designed to evaluate and improve cloud governance, reliability engineering, disaster recovery readiness, observability maturity, operational resilience, and FinOps governance.
+This repository presents an enterprise resilience maturity model for evaluating and improving cloud governance, reliability engineering, disaster recovery readiness, observability maturity, operational resilience, and FinOps governance.
 
-The framework provides a structured maturity model for enterprise cloud and digital transformation programs.
+The framework provides a structured way to assess operating maturity, compare current state to target state, and turn findings into a practical improvement roadmap.
 
 ## Core Areas
 
@@ -21,13 +21,13 @@ The framework provides a structured maturity model for enterprise cloud and digi
 
 The framework helps organizations:
 
-- Assess operational resilience maturity
-- Identify governance gaps
-- Improve disaster recovery readiness
-- Strengthen reliability engineering
-- Improve observability capabilities
-- Enhance cloud operational governance
-- Build transformation roadmaps
+- assess operational resilience maturity
+- identify governance gaps
+- improve disaster recovery readiness
+- strengthen reliability engineering
+- improve observability capabilities
+- enhance cloud operational governance
+- build transformation roadmaps
 
 ## Maturity Levels
 
@@ -47,16 +47,13 @@ The framework helps organizations:
 - Executive resilience reporting
 - Continuous improvement planning
 
-## Enterprise Context
+## How To Use This Repository
 
-This repository combines practical experience across:
-
-- Multi-cloud governance
-- Site Reliability Engineering
-- Disaster recovery programs
-- FinOps optimization
-- Enterprise architecture governance
-- Operational resilience initiatives
+1. Read the framework overview.
+2. Review the maturity levels and scoring model.
+3. Use the scorecards to assess current state.
+4. Convert the findings into a roadmap and executive report.
+5. Re-run the assessment on a regular cadence to measure progress.
 
 ## Repository Structure
 
@@ -67,21 +64,18 @@ scorecards/         Assessment scorecards
 models/             Scoring and governance models
 templates/          Assessment and roadmap templates
 dashboards/         KPI dashboard examples
-diagrams/           Architecture and maturity visuals
 evidence/           Use-case notes
 publications/       Research references
 references/         Bibliography
-use-cases/          Enterprise examples
-
 ```
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the resilience, reliability, DR, observability, and FinOps maturity docs.
-3. Use the scorecards and maturity levels to assess current state.
-4. Expand dashboards, templates, and improvement plans next.
 
 ## Core Content
 
-- [Enterprise Resilience Scorecard](scorecards/enterprise-resilience-scorecard.md)
+- [Content Index](docs/content-index.md)
+- [Framework Overview](docs/framework-overview.md)
+- [Resilience Governance](docs/resilience-governance.md)
+- [Reliability Maturity](docs/reliability-maturity.md)
+- [DR Maturity](docs/dr-maturity.md)
+- [Observability Maturity](docs/observability-maturity.md)
+- [FinOps Maturity](docs/finops-maturity.md)
+- [Executive Resilience Reporting](docs/executive-resilience-reporting.md)
