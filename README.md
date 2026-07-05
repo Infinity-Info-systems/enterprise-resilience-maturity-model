@@ -72,3 +72,16 @@ evidence/           Use-case notes
 publications/       Research references
 references/         Bibliography
 use-cases/          Enterprise examples
+
+```
+
+## Start Here
+
+1. Read the framework overview.
+2. Review the resilience, reliability, DR, observability, and FinOps maturity docs.
+3. Use the scorecards and maturity levels to assess current state.
+4. Expand dashboards, templates, and improvement plans next.
+
+## Core Content
+
+- [Enterprise Resilience Scorecard](scorecards/enterprise-resilience-scorecard.md)
