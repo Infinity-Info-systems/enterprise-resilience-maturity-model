@@ -16,3 +16,7 @@ Basic practices exist, but they are applied unevenly across teams or services.
 - inconsistent execution
 - gaps between policy and practice
 - limited visibility into exceptions
+
+## Use
+
+Use this level when basic practices exist but are still inconsistent or incomplete.

@@ -6,6 +6,11 @@
 - highest risk domain
 - improvement progress
 - open critical actions
+- confidence by domain
+
+## Dashboard Intent
+
+Use the dashboard to show where resilience is improving and where leadership attention is still needed.
 
 ## Suggested Charts
 

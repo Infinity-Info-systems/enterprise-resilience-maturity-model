@@ -5,6 +5,7 @@
 This repository presents an enterprise resilience maturity model for evaluating and improving cloud governance, reliability engineering, disaster recovery readiness, observability maturity, operational resilience, and FinOps governance.
 
 The framework provides a structured way to assess operating maturity, compare current state to target state, and turn findings into a practical improvement roadmap.
+It is intended to help teams manage resilience as a measurable operating discipline rather than a one-time assessment.
 
 ## Core Areas
 
@@ -16,6 +17,17 @@ The framework provides a structured way to assess operating maturity, compare cu
 - Operational resilience
 - Architecture governance
 - Executive resilience reporting
+- evidence traceability
+- recurring reassessment
+- improvement sequencing
+
+## Content Model
+
+This repository works best when the content is grouped into three layers:
+
+- framework and governance framing
+- maturity models and scorecards
+- templates, dashboards, and evidence references
 
 ## Objectives
 
@@ -54,6 +66,7 @@ The framework helps organizations:
 3. Use the scorecards to assess current state.
 4. Convert the findings into a roadmap and executive report.
 5. Re-run the assessment on a regular cadence to measure progress.
+6. Keep the language consistent across maturity levels, scorecards, and templates.
 
 ## Repository Structure
 
@@ -79,3 +92,7 @@ references/         Bibliography
 - [Observability Maturity](docs/observability-maturity.md)
 - [FinOps Maturity](docs/finops-maturity.md)
 - [Executive Resilience Reporting](docs/executive-resilience-reporting.md)
+
+## Operating Principle
+
+Resilience maturity should be easy to score, easy to explain, and easy to improve over time.

@@ -23,3 +23,7 @@ Describe the improvement outcome the organization wants to achieve.
 - measurable reduction in risk
 - visible maturity gain
 - completed ownership assignments
+
+## Plan Rule
+
+Every improvement plan should be tied to a scoring gap and a named owner.

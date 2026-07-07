@@ -10,6 +10,11 @@ FinOps maturity measures whether cloud spend is visible, governed, forecasted, a
 - budgets are reviewed regularly
 - forecasts are tracked against actuals
 - optimization actions are closed and measured
+- savings claims are validated
+
+## Use
+
+Use this page to understand whether FinOps is an operating discipline or just a reporting exercise.
 
 ## Common Gaps
 

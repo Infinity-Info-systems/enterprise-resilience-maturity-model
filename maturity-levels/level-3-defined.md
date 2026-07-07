@@ -16,3 +16,7 @@ Practices are documented and understood, but execution still varies.
 - uneven adoption
 - partial measurement discipline
 - local variation in implementation
+
+## Use
+
+Use this level when practices are documented but not yet consistently measured or improved.

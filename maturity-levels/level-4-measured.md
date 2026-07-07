@@ -15,3 +15,7 @@ Practices are measured, repeatable, and linked to operational outcomes.
 
 - optimization may be uneven
 - measurement can focus too much on output and not enough on value
+
+## Use
+
+Use this level when practices are repeatable and tied to measurable outcomes.

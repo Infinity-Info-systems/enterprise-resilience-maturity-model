@@ -17,3 +17,7 @@ Practices are ad hoc, inconsistent, or mostly undocumented.
 - unclear recovery expectations
 - uncontrolled spend growth
 - unverified controls
+
+## Use
+
+Use this level when practices are mostly ad hoc and evidence is limited.

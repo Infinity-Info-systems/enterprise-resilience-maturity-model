@@ -10,6 +10,11 @@ DR maturity measures how ready the organization is to recover critical services 
 - RTO and RPO are defined
 - recovery tests occur on a schedule
 - recovery gaps are tracked and remediated
+- failback is included in the plan
+
+## Use
+
+Use this page to judge whether recovery is truly ready or only documented.
 
 ## Common Gaps
 

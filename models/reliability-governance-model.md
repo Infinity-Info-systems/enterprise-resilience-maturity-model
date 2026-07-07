@@ -18,3 +18,8 @@ This model shows how reliability decisions are governed across ownership, measur
 - reliability targets are visible
 - incident follow-up is tracked to closure
 - trends are reviewed with leadership
+- governance decisions are tied to evidence
+
+## Use
+
+Use this model to keep reliability ownership, targets, and improvement actions aligned.

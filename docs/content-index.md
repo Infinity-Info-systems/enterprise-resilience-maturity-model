@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for enterprise resilience, governance maturity, and operational improvement.
+Use it to move from the framework to the exact maturity or reporting artifact you need.
 
 ## Entry Points
 
@@ -42,7 +43,17 @@ This index organizes the repo into a front door for enterprise resilience, gover
 - [Research Links](../publications/research-links.md)
 - [Use-Case Notes](../evidence/use-case-notes.md)
 
+## Reading Order
+
+1. Framework overview
+2. Resilience governance
+3. Reliability maturity
+4. DR maturity
+5. Observability maturity
+6. FinOps maturity
+7. Executive resilience reporting
+
 ## Shared Direction
 
 Use the same section structure as the other core repos so the ecosystem stays aligned and easy to navigate.
-
+Keep the pages short enough for review and specific enough for action.

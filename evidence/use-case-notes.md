@@ -14,3 +14,7 @@
 - maturity summary
 - roadmap
 - leadership brief
+
+## Use
+
+Use these notes to keep recurring assessments comparable and easy to explain to stakeholders.

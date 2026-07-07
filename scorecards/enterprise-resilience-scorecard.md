@@ -66,6 +66,10 @@ Recommended cadence:
 - align roadmap priorities to risk and impact
 - keep the scorecard lightweight enough for executive review
 
+## Scorecard Outcome
+
+The scorecard should make the resilience story simple enough for leadership and detailed enough for follow-through.
+
 ## Related Artifacts
 
 - [Maturity Assessment Template](../templates/maturity-assessment-template.md)

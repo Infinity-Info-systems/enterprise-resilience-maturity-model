@@ -20,6 +20,11 @@ Executive resilience reporting converts technical assessment results into a shor
 - where the organization is exposed
 - what can be fixed quickly
 - what needs funding or sponsorship
+- which domain is the first priority
+
+## Reporting Outcome
+
+Executive reporting should make the next decision obvious and the evidence behind it easy to follow.
 
 ## Reporting Rules
 

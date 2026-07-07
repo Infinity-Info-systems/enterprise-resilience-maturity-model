@@ -10,6 +10,11 @@ Reliability maturity measures how consistently teams define service ownership, m
 - SLOs are defined and reviewed
 - incident reviews lead to action
 - reliability metrics are used in planning
+- recurring issues are tracked to closure
+
+## Use
+
+Use this page to judge whether reliability is managed as an ongoing practice or only after incidents occur.
 
 ## Common Gaps
 

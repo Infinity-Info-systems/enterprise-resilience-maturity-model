@@ -45,3 +45,7 @@ Track risk separately so maturity and exposure do not get mixed together.
 - low maturity with high confidence is a strong improvement candidate
 - high maturity with low confidence should still be validated
 - the lowest domain score often drives the first roadmap action
+
+## Use
+
+Use this model to compare domains consistently without mixing maturity and risk together.

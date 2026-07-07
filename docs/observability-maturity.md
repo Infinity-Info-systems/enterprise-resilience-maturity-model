@@ -10,6 +10,11 @@ Observability maturity measures whether the organization can detect, explain, an
 - alerting is tuned to reduce noise
 - traces and logs support diagnosis
 - response automation exists where appropriate
+- ownership for telemetry quality is defined
+
+## Use
+
+Use this page to assess whether observability is actionable enough to support resilience decisions.
 
 ## Common Gaps
 

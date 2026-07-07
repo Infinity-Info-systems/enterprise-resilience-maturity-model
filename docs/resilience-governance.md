@@ -17,6 +17,11 @@ Resilience governance defines who makes decisions, how exceptions are managed, a
 - review maturity results on a recurring cadence
 - keep policy and exception logs current
 - tie improvement actions to business risk
+- keep decisions traceable to a named reviewer
+
+## Governance Outcome
+
+Resilience governance should make ownership, decisions, and improvement follow-up easy to see and easy to audit.
 
 ## Evidence To Collect
 

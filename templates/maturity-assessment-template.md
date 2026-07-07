@@ -27,3 +27,7 @@
 - stakeholder review completed
 - evidence confirmed
 - disputed items noted
+
+## Assessment Rule
+
+Keep the assessment repeatable so future runs can compare improvement over time.

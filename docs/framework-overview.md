@@ -3,6 +3,7 @@
 ## What This Framework Does
 
 The Enterprise Resilience Maturity Model helps organizations understand how well their cloud and digital operating model supports governance, resilience, recovery, and continuous improvement.
+It gives teams a shared way to score maturity and plan what to improve next.
 
 ## What It Covers
 
@@ -29,6 +30,11 @@ The Enterprise Resilience Maturity Model helps organizations understand how well
 - each finding is supported by evidence
 - each domain has an owner and an improvement path
 - the roadmap can be revisited and measured over time
+- the lowest-scoring domain is obvious
+
+## Practical Use
+
+Use this framework when you need one model that can summarize resilience maturity across governance, reliability, DR, observability, and FinOps.
 
 ## Outputs
 
