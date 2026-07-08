@@ -12,6 +12,18 @@ Use a 1 to 5 maturity scale across all domains.
 | 4 | Measured and operationally reliable |
 | 5 | Optimized and continuously improving |
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Control Clarity] --> B[Evidence Quality]
+  B --> C[Operational Consistency]
+  C --> D[Ownership Clarity]
+  D --> E[Measurement Discipline]
+  E --> F[Remediation Readiness]
+  F --> G[Score]
+```
+
 ## Scoring Dimensions
 
 - control clarity
@@ -45,6 +57,14 @@ Track risk separately so maturity and exposure do not get mixed together.
 - low maturity with high confidence is a strong improvement candidate
 - high maturity with low confidence should still be validated
 - the lowest domain score often drives the first roadmap action
+
+## Use
+
+Use this model to compare domains consistently without mixing maturity and risk together.
+
+## Outcome
+
+A clear scoring model makes it easier to explain why one domain needs attention before another.
 
 ## Use
 

@@ -6,6 +6,7 @@ This repository presents an enterprise resilience maturity model for evaluating 
 
 The framework provides a structured way to assess operating maturity, compare current state to target state, and turn findings into a practical improvement roadmap.
 It is intended to help teams manage resilience as a measurable operating discipline rather than a one-time assessment.
+The repository should also be easy to reference from the parent MCGR page so the resilience library is visible as part of the larger ecosystem.
 
 ## Core Areas
 
@@ -20,6 +21,15 @@ It is intended to help teams manage resilience as a measurable operating discipl
 - evidence traceability
 - recurring reassessment
 - improvement sequencing
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [SRE Reliability Models](../sre-reliability-models/README.md)
+- [DR Governance Framework](../dr-governance-framework/README.md)
+- [Cloud FinOps Governance](../cloud-finops-governance/README.md)
+- [AI-Driven Observability Framework](../ai-driven-observability-framework/README.md)
 
 ## Content Model
 
@@ -96,3 +106,13 @@ references/         Bibliography
 ## Operating Principle
 
 Resilience maturity should be easy to score, easy to explain, and easy to improve over time.
+
+## Quick View
+
+| Maturity Area | What It Measures | Typical Output |
+| --- | --- | --- |
+| Governance | Ownership and decision rights | Governance findings |
+| Reliability | Service discipline and response | Reliability score |
+| DR | Recovery readiness and testing | DR maturity rating |
+| Observability | Signal quality and visibility | Observability assessment |
+| FinOps | Cost accountability and control | FinOps maturity view |

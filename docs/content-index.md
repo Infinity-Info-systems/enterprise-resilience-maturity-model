@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for enterprise resilience, governance maturity, and operational improvement.
 Use it to move from the framework to the exact maturity or reporting artifact you need.
+The order is designed to move from governance framing into the maturity artifacts and then into the reusable templates.
 
 ## Entry Points
 
@@ -57,3 +58,4 @@ Use it to move from the framework to the exact maturity or reporting artifact yo
 
 Use the same section structure as the other core repos so the ecosystem stays aligned and easy to navigate.
 Keep the pages short enough for review and specific enough for action.
+If a page does not help score, explain, or improve resilience, move that detail into a more specific artifact.
