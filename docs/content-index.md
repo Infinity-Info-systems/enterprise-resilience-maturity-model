@@ -6,6 +6,18 @@ This index organizes the repo into a front door for enterprise resilience, gover
 Use it to move from the framework to the exact maturity or reporting artifact you need.
 The order is designed to move from governance framing into the maturity artifacts and then into the reusable templates.
 
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the resilience model |
+| 2 | Resilience Governance | See ownership and decision flow |
+| 3 | Reliability Maturity | Review service discipline |
+| 4 | DR Maturity | Review recovery readiness |
+| 5 | Observability Maturity | Review visibility and signals |
+| 6 | FinOps Maturity | Review cost accountability |
+| 7 | Executive Resilience Reporting | Package the outcome |
+
 ## Entry Points
 
 - [Framework Overview](./framework-overview.md)
@@ -59,3 +71,12 @@ The order is designed to move from governance framing into the maturity artifact
 Use the same section structure as the other core repos so the ecosystem stays aligned and easy to navigate.
 Keep the pages short enough for review and specific enough for action.
 If a page does not help score, explain, or improve resilience, move that detail into a more specific artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Assess maturity | Maturity Assessment Template |
+| Plan improvements | Improvement Plan Template |
+| Report to leadership | Executive Roadmap Template |
+| Show progress | Resilience Dashboard |

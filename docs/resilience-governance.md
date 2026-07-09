@@ -19,6 +19,16 @@ Resilience governance defines who makes decisions, how exceptions are managed, a
 - tie improvement actions to business risk
 - keep decisions traceable to a named reviewer
 
+## Governance Table
+
+| Governance Item | Owner | Output |
+| --- | --- | --- |
+| Program charter | Resilience lead | Defined scope |
+| Maturity review | Governance board | Prioritized findings |
+| Exception management | Domain owner | Approved exception |
+| Improvement tracking | Program manager | Action backlog |
+| Executive review | Sponsor | Leadership summary |
+
 ## Governance Outcome
 
 Resilience governance should make ownership, decisions, and improvement follow-up easy to see and easy to audit.

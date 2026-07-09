@@ -6,6 +6,17 @@ The Enterprise Resilience Maturity Model helps organizations understand how well
 It gives teams a shared way to score maturity and plan what to improve next.
 The framework is also intended to make the resilience story easy to show from the parent MCGR page and related ecosystem pages.
 
+## Resilience Flow
+
+```mermaid
+flowchart LR
+    A["Governance"] --> B["Maturity Assessment"]
+    B --> C["Findings Review"]
+    C --> D["Improvement Roadmap"]
+    D --> E["Execution"]
+    E --> F["Reassessment"]
+```
+
 ## What It Covers
 
 - governance ownership and decision rights
@@ -53,3 +64,13 @@ Use this framework when you need one model that can summarize resilience maturit
 - improvement roadmap
 - domain-specific findings
 - recurring re-assessment plan
+
+## Resilience Layers
+
+| Layer | Question | Artifact |
+| --- | --- | --- |
+| Governance | Who owns the program? | Governance model |
+| Assessment | How mature are we? | Scorecard |
+| Improvement | What needs to change? | Improvement plan |
+| Reporting | What should leaders see? | Executive report |
+| Reassessment | Did it improve? | Reassessment schedule |
