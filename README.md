@@ -103,6 +103,11 @@ references/         Bibliography
 - [FinOps Maturity](docs/finops-maturity.md)
 - [Executive Resilience Reporting](docs/executive-resilience-reporting.md)
 
+## Code Direction
+
+This repo now includes a typed resilience registry in `src/` so maturity scores, domain ownership, and improvement logic can be reused in tools or future app pages.
+The code layer mirrors the governance, assessment, improvement, reporting, and reassessment flow described in the framework pages.
+
 ## Operating Principle
 
 Resilience maturity should be easy to score, easy to explain, and easy to improve over time.
